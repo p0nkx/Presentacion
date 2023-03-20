@@ -4,7 +4,7 @@
 
 ## **Sobre mi:**
 
-Soy estudiante en la Univercidad Nacional de José C. Paz ([UNPAZ](blank:#https://www.unpaz.edu.ar)) en la carrera Licenciado en Gestión de las Tecnologías de la Información. Trabajo de pasante en la univercidad antes mencionada. Mi principal tarea es el aprendisaje del [CMS DRUPAL](blank:#https://www.drupal.org)  para el manejo de paginas webs.
+Soy estudiante en la Universidad Nacional de José C. Paz ([UNPAZ](blank:#https://www.unpaz.edu.ar)) en la carrera Licenciado en Gestión de las Tecnologías de la Información. Trabajo de pasante en la universidad antes mencionada. Mi principal tarea es el aprendizaje del [CMS DRUPAL](blank:#https://www.drupal.org)  para el manejo de paginas webs.
 
 ### **Hobies**
 
